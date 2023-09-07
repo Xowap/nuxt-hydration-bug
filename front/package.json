@@ -1,0 +1,19 @@
+{
+    "name": "nuxt_hydration_bug",
+    "private": true,
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "dependencies": {
+        "nuxt": "3.6.x",
+        "vue": "3.3.x"
+    },
+    "devDependencies": {
+        "consola": "^3.2.x",
+        "prettier": "*"
+    }
+}
